@@ -19,7 +19,7 @@ function App() {
         </p>
 
         <h1 style={{ fontSize: '56px', margin: '10px 0' }}>
-          Mi primera web
+          Mi primera web actualizada
         </h1>
 
         <p
